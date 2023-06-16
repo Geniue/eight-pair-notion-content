@@ -1,0 +1,89 @@
+* {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.879);
+  color: #fff;
+}
+h1 {
+  font-size: 240%;
+}
+img {
+  max-width: 100%;
+}
+ul {
+  list-style: disc;
+}
+ul,
+ol {
+  margin: 0 0 0 1.6rem;
+}
+.ps-3 {
+  padding-left: 1.2rem;
+}
+a {
+  color: gray;
+}
+li {
+  margin: 0 0 10px 0;
+}
+br {
+  margin-bottom: 10px !important;
+}
+.py-5 {
+  padding: 8vw;
+}
+.text-center {
+  text-align: center;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding: 35px 16px;
+}
+.d-center-flex {
+  display: flex;
+  gap: 3px;
+  align-items: center;
+}
+
+.main-page-section {
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+.cookie-bg {
+  background: url(../assets/photo-1571805529673-0f56b922b359.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: 100%;
+}
+.ahead-bg {
+  background: url(../assets/Add_a_heading.png);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: 100%;
+}
+.nasa-bg {
+  background: url(../assets/nasa_buzz_aldrin_on_the_moon.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+}
+@media (min-width: 800px) {
+  .container {
+    padding: 135px 16px;
+    width: 80%;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 55%;
+  }
+}
