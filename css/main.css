@@ -9,7 +9,7 @@ body {
   background-color: rgba(0, 0, 0, 0.879);
   color: #fff;
 }
-p{
+p {
   line-height: 22px;
 }
 h1 {
@@ -73,8 +73,54 @@ br {
   background-size: cover;
   background-position: 100%;
 }
+.sea-bg {
+  background: url(../assets/photo-1550631392-7ecd12343eba.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: 100%;
+}
+.tv-bg {
+  background: url(../assets/photo-1611434132218-d687f8a5f378.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: 100%;
+}
+.puppy-bg {
+  background: url(../assets/photo-1594004844563-536a03a6e532.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: 100%;
+}
+.cash-bg {
+  background: url(../assets/photo-1518458028785-8fbcd101ebb9.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+  background-position: 100%;
+}
 .nasa-bg {
   background: url(../assets/nasa_buzz_aldrin_on_the_moon.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+}
+.gallery-bg {
+  background: url(../assets/webb2.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+}
+.fit-bg {
+  background: url(../assets/photo-1574680096145-d05b474e2155.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+}
+.dast-bg {
+  background: url(../assets/photo-1549880181-56a44cf4a9a5.jpg);
   width: 100%;
   height: 200px;
   background-size: cover;
@@ -97,11 +143,59 @@ br {
   height: 200px;
   background-size: cover;
 }
+.oldcode-bg {
+  background: url(../assets/nasa_ibm_type_704.jpg);
+  width: 100%;
+  height: 200px;
+  background-size: cover;
+}
 .nasa2-bg {
   background: url(../assets/nasa_robert_stewart_spacewalk_2.jpg);
   width: 100%;
   height: 200px;
   background-position: 100%;
+  background-size: cover;
+}
+.moon-bg {
+  background: url(../assets/photo-1518365050014-70fe7232897f.jpg);
+  width: 100%;
+  height: 200px;
+  background-position: 80%;
+  background-size: cover;
+}
+.atm-bg {
+  background: url(../assets/photo-1533421644343-45b606745fb1.jpg);
+  width: 100%;
+  height: 200px;
+  /* background-position: 80%; */
+  background-size: cover;
+}
+.goat-bg {
+  background: url(../assets/photo-1607289852967-c952cd4543a5.jpg);
+  width: 100%;
+  height: 200px;
+  background-position: 80%;
+  background-size: cover;
+}
+.gym-bg {
+  background: url(../assets/photo-1526506118085-60ce8714f8c5.jpg);
+  width: 100%;
+  height: 200px;
+  background-position: 80%;
+  background-size: cover;
+}
+.car-bg {
+  background: url(../assets/photo-1617814065893-00757125efab.jpg);
+  width: 100%;
+  height: 200px;
+  background-position: 80%;
+  background-size: cover;
+}
+.money-bg {
+  background: url(../assets/photo-1554768804-50c1e2b50a6e.jpg);
+  width: 100%;
+  height: 200px;
+  background-position: 80%;
   background-size: cover;
 }
 .fish-bg {
@@ -118,12 +212,12 @@ br {
   background-position: 100%;
   background-size: cover;
 }
-.img-cont-ai-bran{
+.img-cont-ai-bran {
   display: flex;
   gap: 2.2rem;
   max-width: 100%;
 }
-.img-cont-ai-bran img{
+.img-cont-ai-bran img {
   max-width: 100% !important;
   width: 100%;
 }
