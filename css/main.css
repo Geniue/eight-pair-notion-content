@@ -57,7 +57,6 @@ br {
 .main-page-section {
   display: flex;
   align-items: center;
-  height: 100vh;
 }
 .cookie-bg {
   background: url(../assets/photo-1571805529673-0f56b922b359.jpg);
